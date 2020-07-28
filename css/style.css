@@ -5,6 +5,7 @@ body {
     background-repeat: repeat-x;
     background-attachment: fixed;
     background-position: center;
+    z-index: -1;
       
 }
 
