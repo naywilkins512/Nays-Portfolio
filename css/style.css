@@ -2,7 +2,7 @@ body {
 
     font-family: 'Montserrat', sans-serif;
     background-image: url('https://images.squarespace-cdn.com/content/v1/568b4be12399a30df6136d70/1451972719393-3QQX2SVP4AYPQ1DIT7JU/ke17ZwdGBToddI8pDm48kLWfKAEBtvJZsWvPlwmQmk97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmoJKo7K7P-K3iDKcb1IjyB_GMjWOmvGBWg7P1KQvFcjHL4SS0kE4NJLOBtWtjPyLF/1966232_10152138993568267_1576617348_o.jpg?format=750w');
-    background-repeat: repeat-x;
+    background-repeat: repeat-x repeat-y;
     background-attachment: fixed;
     background-position: center;
     z-index: -1;
