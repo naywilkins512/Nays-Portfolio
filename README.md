@@ -1,4 +1,4 @@
-## Nay's Portfolio Website
+# Nay's Portfolio Website
 
 A mobile-first Portfolio website for Nay Wilkins, utilizing responsive design with Bootstrap to render well on a variety of devices and window or screen sizes. 
 
@@ -6,17 +6,17 @@ A mobile-first Portfolio website for Nay Wilkins, utilizing responsive design wi
 
 ![Nays portfolio gif](gif/portfolio.gif) 
 
-## sections
+# sections
 
-# About Me
+## About Me
 
 A short bio on some of Nay's accoplishments and aspirations
 
-# Portfolio
+## Portfolio
 
 A collection of full-stack development work. To be filled out upon course completion.
 
-# Contact 
+## Contact 
 
 A simple, user-friendly contact form for hassle free communication.
 
